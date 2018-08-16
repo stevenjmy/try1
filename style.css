@@ -33,15 +33,18 @@ float: left;
 margin-top: 10px;
 }
 
-.topnav{
+nav{
 float: right;
 line-height: 70px;
+}
+
+nav li{
 display: inline-block;
 padding: 5px 20px;
 margin-left: 10px;
 background:#f3f3f3;
 line-height: normal;
-}
+ }
 /* -------CONTENT------- */
 .content h2{
 background: #FF4719;
