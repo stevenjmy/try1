@@ -47,7 +47,8 @@ line-height: normal;
 }
 /* -------CONTENT------- */
 .content h2{
-background: 10px;
+background: #FF4719;
+padding: 10px;
 border-radius: 5px;
 margin-bottom: 20px;
 }
@@ -59,6 +60,11 @@ width: 600px;
 
 .content ul1{
 float: right;
+width: 250px;
+background: #338989;
+padding: 20px;
+border-radius: 5px;
+list-style: none;
 }
 
 .content article2{
@@ -68,4 +74,9 @@ width: 600px;
 
 .content ul2{
 float: left;
+width: 250px;
+background: #338989;
+padding: 20px;
+border-radius: 5px;
+list-style: none;
 }
