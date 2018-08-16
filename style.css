@@ -6,6 +6,11 @@ color: darkgery;
 background: #f3f3f3;
 }
 
+p{
+ front-size: 18px;
+  text-align: center;
+}
+
 h2{
 color: white;
 }
@@ -52,7 +57,10 @@ float: left;
 width: 600px;
 }
 
-.content ul{
+.content ul1{
 float: right;
 }
 
+.content ul2{
+float: left;
+}
