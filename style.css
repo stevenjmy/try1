@@ -53,12 +53,12 @@ border-radius: 5px;
 margin-bottom: 20px;
 }
 
-.content article1{
+.content art1{
 float: left;
 width: 600px;
 }
 
-.content ul1{
+.content u1{
 float: right;
 width: 250px;
 background: #338989;
@@ -67,12 +67,12 @@ border-radius: 5px;
 list-style: none;
 }
 
-.content article2{
+.content art2{
 float: right;
 width: 600px;
 }
 
-.content ul2{
+.content u2{
 float: left;
 width: 250px;
 background: #338989;
