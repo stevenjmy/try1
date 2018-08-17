@@ -80,3 +80,10 @@ padding: 20px;
 border-radius: 5px;
 list-style: none;
 }
+
+footer {
+	position:fixed;
+	bottom:0;
+	font-size: 14px;
+	padding: 1%;
+}
